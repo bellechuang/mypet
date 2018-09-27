@@ -1,0 +1,29 @@
+.jumbotron {
+    background-image: url("assets/IMG_0643.jpg");
+    background-attachment: fixed;
+    background-position: center; 
+    height:500px;
+    padding:150px;
+    text-align:center;
+    font:#fff;
+}
+
+.btn{
+    background-color:lightblue;
+    border:none;
+    color:black;
+}
+
+.btn:hover{
+    background-color:pink;
+    border:none;
+}
+
+.col-md-4{
+    text-align:center;
+}
+
+.btn-primary{
+    background-color:black;
+    color:white;
+}
